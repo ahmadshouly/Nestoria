@@ -11,7 +11,11 @@
       "supportsTablet": true
     },
     "android": {
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.vibecode.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
     },
     "plugins": ["expo-router"],
     "experiments": {
